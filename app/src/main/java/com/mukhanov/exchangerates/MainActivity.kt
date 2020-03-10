@@ -59,6 +59,7 @@ class MainActivity : AppCompatActivity() {
 
             if (rates.isNotEmpty()) {
                 (ratesAdapter as RatesAdapter).update(rates)
+                emptyView.visibility = View.INVISIBLE
             }
             progress.visibility = View.INVISIBLE
         })
