@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="amount">Сумма:</string>
+    <string name="rate_format">%.2f</string>
+    <string name="amount_desc">руб.</string>
+    <string name="no_results">Нет данных</string>
+</resources>
